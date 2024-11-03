@@ -14,7 +14,7 @@ const Footer: FC = () => {
               @HammadAtBrackets
             </a>
             <a
-              href="https://github.com/your-repo-url"
+              href="https://github.com/Hammad-Shahid24/Cactus"
               target="_blank"
               className="block  cursor-pointer hover:text-white transition-all duration-300"
             >
